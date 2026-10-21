@@ -1,0 +1,6 @@
+{
+  "name": "SkillMatch AI — Intelligent Resume Screening and Candidate Ranking System",
+  "description": "Automated multi-format resume processing (PDF, Word, OCR, Camera), dictionary-based skill matching engine, competition ranking, and candidate analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

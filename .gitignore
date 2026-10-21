@@ -1,0 +1,36 @@
+# Node & Dependencies
+node_modules/
+build/
+dist/
+coverage/
+*.log
+
+# Environment & Secrets
+.env*
+!.env.example
+*.pem
+*.key
+
+# Java & Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# IDEs & System
+.DS_Store
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Local Uploads & Data
+uploads/
+skillmatch-data.json
+*.tmp
